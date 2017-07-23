@@ -97,6 +97,7 @@ Secondary
     - Enhanced Surveillance
   - GICB, BDS registers
   - why are there problems when too many stations interrogate a transponder?
+  - what about the integration of other aerial systems like gliders, paragliders, drones. How do you process and filter all relevant data? Possibility to even go to higher accuracy for drone flight control?
   
 * Bigger Picture
   - Do we still need primary? Or everything ADS-B?  
