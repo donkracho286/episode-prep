@@ -16,12 +16,12 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
        non-linear manner with weight"
       - component complexity and availability
       - heat development and dissipation?
-  - Quick assembly
+  - Quick assembly and transportation
   - Structure: carbon?
 
 * Uses
   - Monitoring of "long" things: pipelines, railtracks
-  - Grid'ing, cartography, crop monitoring
+  - Grid'ing, cartography, crop monitoring (comparison to cubesats e.g. by planet)
   - Other examples? Military?
     how is operation from ships different? -> landing spot might move :-)
   - Talk about typical payloads.
@@ -40,7 +40,7 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
 
 * Propulsion
   - electrical 
-  - Zrafeoffs vs. combustion
+  - Trafeoffs vs. combustion
   - Isn't there waaaay too much power for cruise flight?
     Also the props must be optimized for hover ....
   - Switching off two of them for cruise. Good compromise?
@@ -71,6 +71,7 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
     - telemetry and data recording.
     - This is more serious than model airplanes...
     - human error? -> checklists
+    - professional training for the user?
 
 
 * Control
@@ -82,7 +83,7 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
     what are the wind limits?
   - Which sensors are used as part of the autopilot? What is the "brain" of the Quantum Tron?
   What micro controller? What kind of development: model-based (especially for the controllers)
-  or hand-written code, AI? Is it considered safety-critical, standards covered? 
+  or hand-written code, AI? Is it considered safety-critical, standards covered? (certification?)
   - What aero surfaces?
   - Talk us throught the tilting. Challenges?
 
@@ -109,6 +110,6 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
 * Legals
   - where can you use UAVs?
   - airports, max alt?
-  - autonomous flying - what preconditions?
+  - autonomous flying - what preconditions? (explain the differences between automatic and autonomous flight)
 
 * Who is the dog in the videos?
