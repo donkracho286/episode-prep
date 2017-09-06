@@ -15,6 +15,7 @@ Basics of Physics
 * Nuclear Fission and Fusion
 * E=mc2 Energy and Mass, Binding Energy
 * Critical mass.
+* why does the chain reaction stop and when?
 * The role of Isotopes
 * Atomic Bomb vs. H-Bomb
 
@@ -120,7 +121,7 @@ Delivery Systems
   - Readiness, time to launch
   - ICBM - silos
   - SRBM - subs
-  - Bombers
+  - Bombers (how to get them away from the blast radius?)
 
 
 
@@ -130,7 +131,7 @@ Creating the Fuel
 * Refinement, Purification, Centrifuges
   -> What is Weapons grade, why do we need "purer" stuff there?
 
-* How do you purify the necesssary ingredients?
+* How do you purify the necesssary ingredients? (stuxnet?)
 
 
 Testing and Maintenance
@@ -162,6 +163,8 @@ History and Politics
   - Too much devastation
   - Only as a deterrent
   - Risk of inadvertent use? -> Bad deterrent?
+  
+* Usage outside of military, e.g. space craft engine https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
 
 * Is there an agreement among historians whether "it was worth it"?  
 
